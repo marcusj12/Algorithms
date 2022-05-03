@@ -1,6 +1,9 @@
 package com.MarcusJennings.Edabit;
 
 public class ScoringSystem {
+    public static void main(String[] args) {
+        calculateScores();// What argument to pass through????
+    }
         public static int[] calculateScores(String str) {
             int	counterA = 0;
             int	counterB = 0;
